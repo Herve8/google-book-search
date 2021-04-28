@@ -62,6 +62,8 @@ The layout includes two React Components for each page Search and Saved.
 
 CSS framework Bootstrap is used for the page layout.
 
+### Licence: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ### Deployment
 
