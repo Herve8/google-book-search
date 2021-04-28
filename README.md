@@ -67,7 +67,7 @@ CSS framework Bootstrap is used for the page layout.
 
 ### Deployment
 
-Github link: 
+Github link: https://github.com/Herve8/google-book-search
 
 Heroku link:
 
