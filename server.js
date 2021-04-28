@@ -18,7 +18,8 @@ app.use(routes);
 
 // Connect to the Mongo DB
 
-var MONGODB_URI = process.env.MONGODB_URI || "mongodb://localhost/googlebooks";
+//var MONGODB_URI = process.env.MONGODB_URI || "mongodb://localhost/googlebooks";
+var MONGODB_URI = "mongodb+srv://root:root12345@cluster0.1t27v.mongodb.net/myFirstDatabase?retryWrites=true&w=majority" || "mongodb://localhost/googlebooks";
 
 mongoose.connect(MONGODB_URI, {
   useUnifiedTopology: true,
