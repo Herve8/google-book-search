@@ -73,4 +73,4 @@ Heroku link:
 
 ### Demonstration
 
-https://user-images.githubusercontent.com/16859648/116402445-0853c800-a85f-11eb-9732-024ad6c4a8a4.gif
+![] (https://user-images.githubusercontent.com/16859648/116402445-0853c800-a85f-11eb-9732-024ad6c4a8a4.gif)
