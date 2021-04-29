@@ -73,5 +73,5 @@ Heroku link: https://google-books-online.herokuapp.com/
 
 ### Demonstration
 
-[![Alt Text](https://github.com/Herve8/google-book-search/files/6396258)
+<img src="https://drive.google.com/file/d/1PJP2cvBWSMkxFccl3AvAlH0oZuYhWgv4/view" width="80" height="60" />
 
