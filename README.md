@@ -73,8 +73,5 @@ Heroku link: https://google-books-online.herokuapp.com/
 
 ### Demonstration
 
-<<<<<<< HEAD
-=======
-### Demonstration
+![demo](https://user-images.githubusercontent.com/16859648/116499941-fbc38400-a8df-11eb-99a4-cff1b3fba7e2.gif)
 
->>>>>>> 483dc8506a20a79962d66ce92743b52999b1da55
